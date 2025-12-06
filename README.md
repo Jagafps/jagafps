@@ -28,11 +28,3 @@ I'm currently focused on the foundational technologies for web development, and 
 My first personal website and portfolio is a great place to see what I've been working on:
 
 ➡️ **[jagafps.pages.dev](https://jagafps.pages.dev)**
-
-### 📫 Get In Touch
-
-If you want to chat about electronics, coding, or self-learning, feel free to reach out!
-
-* **GitHub:** (You are already here!)
-* **LinkedIn:** *[Add your LinkedIn profile URL here]*
-* **Email:** *[Add your preferred email address here]*
