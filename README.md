@@ -32,4 +32,4 @@ My first personal website and portfolio is a great place to see what I've been w
 
 Feel free to add me on Discord if you want to chat about electronics, coding, or self-learning!
 
-**Discord:** `[Your Discord Handle/Tag Here]`
+**Discord:** `Jagafps`
