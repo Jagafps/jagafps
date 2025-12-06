@@ -13,18 +13,23 @@
 📚 **Self-Learning Journey:**
 Though coding is new to me, I'm dedicated to learning through personal projects, tutorials, and continuous experimentation. I embrace modern tools, including **AI assistance**, to help me learn quickly and effectively. I try my best to understand the fundamentals of everything I build!
 
-### 🛠️ What I'm Learning
+### 🛠️ What I'm Learning & Future Interests
 
-I'm currently focused on the foundational technologies for web development, and I'm always looking for ways to connect my coding knowledge back to my electrotechnics background (e.g., IoT, Arduino projects).
+I'm currently focused on the foundational technologies for web development, while exploring technologies that connect code back to my electronics background.
 
-| Category | Skills/Interests |
-| :--- | :--- |
-| **Web Basics** | HTML5, CSS3, JavaScript |
-| **Tools & Utilities** | Git, GitHub, AI Coding Assistants |
-| **Future Interests** | *Feel free to add specific languages (e.g., Python) or platforms (e.g., Arduino) here!* |
+| Category | Current Focus | Future Interests |
+| :--- | :--- | :--- |
+| **Web Basics** | HTML5, CSS3, JavaScript | Expanding into frameworks (React/Vue) |
+| **Systems/IoT** | Git, GitHub, AI Coding Assistants | **Python** (for scripting/data), **Arduino/Microcontrollers** |
 
 ### 🌐 Connect & Portfolio
 
 My first personal website and portfolio is a great place to see what I've been working on:
 
 ➡️ **[jagafps.pages.dev](https://jagafps.pages.dev)**
+
+### 💬 Let's Connect
+
+Feel free to add me on Discord if you want to chat about electronics, coding, or self-learning!
+
+**Discord:** `[Your Discord Handle/Tag Here]`
