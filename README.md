@@ -20,7 +20,7 @@ I'm currently focused on the foundational technologies for web development, whil
 | Category | Current Focus | Future Interests |
 | :--- | :--- | :--- |
 | **Web Basics** | HTML5, CSS3, JavaScript | Expanding into frameworks (React/Vue) |
-| **Systems/IoT** | Git, GitHub, AI Coding Assistants | **Python** (for scripting/data), **Arduino/Microcontrollers** |
+| **Systems/IoT** | Git, GitHub, AI Coding Assistants | **Python** (for scripting/data) |
 
 ### 🌐 Connect & Portfolio
 
